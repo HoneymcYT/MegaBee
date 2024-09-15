@@ -1,0 +1,9 @@
+name: HoneysMegaBiene
+version: '1.0-SNAPSHOT.HoneyBiene'
+main: de.simpmc.honeysMegaBiene.HoneysMegaBiene
+api-version: '1.20'
+prefix: Honeyistcool
+load: STARTUP
+authors: [ Honey der Gstar xD ]
+description: SiMPMC.DE
+website: simpmc.de
